@@ -1,1 +1,2 @@
 new file opening 2
+next line
